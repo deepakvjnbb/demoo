@@ -7,5 +7,4 @@ const projects = () => {
     </div>
   )
 }
-
 export default projects
